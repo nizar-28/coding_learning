@@ -11,4 +11,13 @@ For first time:
 
 3) git commit -m "First commit: "message" "
 
+-- to check if on branch master nothing to commit, working tree clean, type git status
+
 4) git remote add origin https://github.com/yourgithubusername/yourrepository.git
+
+5) git push -u origin master
+
+---After you update files and want to upload again on Github:
+1) git add .
+2) git commit -m "Describe what you updated"
+3) git push
