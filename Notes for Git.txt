@@ -1,0 +1,14 @@
+In Vs Code, press ctrl + shift + ` to open terminal:
+1) cd Desktop/Coding_Training
+2) dir --to check if you are in right folder
+
+3) git init
+4) git add .
+
+For first time:
+1) git config --global user.name "Your Name"
+2) git config --global user.email "your.email@example.com"
+
+3) git commit -m "First commit: "message" "
+
+4) git remote add origin https://github.com/yourgithubusername/yourrepository.git
