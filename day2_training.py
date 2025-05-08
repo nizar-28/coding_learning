@@ -5,7 +5,7 @@ print("Hello, my name is Ni!")
 
 # Step 2: Store age and dream
 age = 28
-dream = "go to Japan."
+dream = "become a better person."
 
 # Step 3: Show them
 print("I am", age, "years old.")

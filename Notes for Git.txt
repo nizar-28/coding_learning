@@ -1,5 +1,5 @@
 In Vs Code, press ctrl + shift + ` to open terminal:
-1) cd Desktop/Coding_Training
+1) cd Desktop/yourfoldername
 2) dir --to check if you are in right folder
 
 3) git init
@@ -21,3 +21,10 @@ For first time:
 1) git add .
 2) git commit -m "Describe what you updated"
 3) git push
+
+If you change repository name:
+1) git remote set-url origin https://github.com/yourusername/yournewrepository.git
+2) Then confirm with git remote -v
+3) You'll see:
+origin  https://github.com/yourgithubusername/yournewrepository.git (fetch)
+origin  https://github.com/yourgithubusername/yournewrepository.git (push)
