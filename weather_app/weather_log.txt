@@ -1,0 +1,36 @@
+🈁 Weather in Tokyo
+Description       : Partly cloudy
+Feels Like (C)    : 30°C
+Feels Like (F)    : 85°F
+Temperature (C)   : 26°C
+Temperature (F)   : 79°F
+Humidity          : 94%
+Precipitation (mm): 1.0 mm
+Pressure (hPa)    : 1014 hPa
+Wind Direction    : SSE
+Wind Speed (km/h) : 10 km/h
+----------------------------------------
+🈁 Weather in Tokyo
+Description       : Partly cloudy
+Feels Like (C)    : 30°C
+Feels Like (F)    : 85°F
+Temperature (C)   : 26°C
+Temperature (F)   : 79°F
+Humidity          : 94%
+Precipitation (mm): 1.0 mm
+Pressure (hPa)    : 1014 hPa
+Wind Direction    : SSE
+Wind Speed (km/h) : 10 km/h
+----------------------------------------
+🈁 Weather in Osaka
+Description       : Light rain shower, mist
+Feels Like (C)    : 27°C
+Feels Like (F)    : 80°F
+Temperature (C)   : 24°C
+Temperature (F)   : 75°F
+Humidity          : 89%
+Precipitation (mm): 0.4 mm
+Pressure (hPa)    : 1012 hPa
+Wind Direction    : E
+Wind Speed (km/h) : 6 km/h
+----------------------------------------
